@@ -1,0 +1,3 @@
+C:/Users/walte/CLionProjects/presentacionArreglos05/04/ejercicio3ptsArreglos/cmake-build-debug/CMakeFiles/ejercicio3ptsArreglos.dir
+C:/Users/walte/CLionProjects/presentacionArreglos05/04/ejercicio3ptsArreglos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/walte/CLionProjects/presentacionArreglos05/04/ejercicio3ptsArreglos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

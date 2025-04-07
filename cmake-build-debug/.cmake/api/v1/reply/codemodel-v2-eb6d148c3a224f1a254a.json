@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicio3ptsArreglos",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio3ptsArreglos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio3ptsArreglos-Debug-54428f2fa18d4db351e9.json",
+					"name" : "ejercicio3ptsArreglos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/walte/CLionProjects/presentacionArreglos05/04/ejercicio3ptsArreglos/cmake-build-debug",
+		"source" : "C:/Users/walte/CLionProjects/presentacionArreglos05/04/ejercicio3ptsArreglos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
